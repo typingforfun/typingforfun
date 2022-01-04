@@ -1,4 +1,4 @@
-### bwuh, I do funny thing
+### idk, just wanting to do something cool ig, ill add some new repo's soon, be patient :) 
 
 <!--
 **typingforfun/typingforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
