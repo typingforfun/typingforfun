@@ -1,7 +1,8 @@
 ### I'm a guy just wanting to do something cool ig, I'll start doing other stuff soon
 
-- Currently I'm working on learning JavaScript (I'm gonna be using TypeScript later when I learn JS.)
-- I know C, C++ and some C# (<= I hate this lang, fuck C#)
+- I know C, C++.
+- Currently I'm working on learning JavaScript
+- If there is a jelly donut, RUN.
 
 <!--
 **typingforfun/typingforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
