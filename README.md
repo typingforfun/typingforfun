@@ -1,5 +1,5 @@
 ### I'm a guy just wanting to do something cool ig, I'll start doing other stuff soon
-![Metrics](/github-metrics.svg)
+<img align-text="center" src="/github-metrics.svg" alt="Metrics" width="400">
 <!--
 **typingforfun/typingforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
