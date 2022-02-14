@@ -1,17 +1,5 @@
 ### I'm a guy just wanting to do something cool ig, I'll start doing other stuff soon
-
-My (own) accurate chart of languages I either suck at or are good with.
-ngl, this scaling system is shit, but I don't care. 
-  
-         (Suck at) 0% - 100% (Know Well)
-    C            ------------------------| 92%
-    C++          ----------------------|86%
-    C#           -------------|60%
-    Java         ------------|56%
-    HTML/CSS     ---------|45%
-    JS           ----| 22%
-    
-    
+![Metrics](/github-metrics.svg)
 <!--
 **typingforfun/typingforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
