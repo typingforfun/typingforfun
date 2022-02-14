@@ -1,7 +1,6 @@
 <p align="center">
   <b>I'm a guy just wanting to do something cool ig, I'll start doing other stuff soon</b>
-<img style="margin: auto" src="/github-metrics.svg" alt="Graph"><br>
-<img style="margin: auto" src="/metrics.plugin.languages.svg" alt="Metrics">
+<img style="margin: auto" src="/metrics.plugin.languages.details.svg" alt="algorithm"><br>
 <br>
 <a href="https://discord.com/users/836443801781927987">discord pf</a>
 </p>
