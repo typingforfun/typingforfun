@@ -1,8 +1,10 @@
-### I'm a guy just wanting to do something cool ig, I'll start doing other stuff soon
-<img align-text="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<a href="https://twitter.com/dotrpm">twitter</a>
+<p align="center">
+  <b>I'm a guy just wanting to do something cool ig, I'll start doing other stuff soon</b>
+<img style="margin: auto" src="/github-metrics.svg" alt="Metrics">
+<br>
 <a href="https://discord.com/users/836443801781927987">discord</a>
-<!--
+</p>
+  <!--
 **typingforfun/typingforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
