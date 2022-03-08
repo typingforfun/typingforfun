@@ -2,7 +2,7 @@
   <b>I stole my pfp from /i/, fuck you</b><br>
 <img style="margin: auto" src="/metrics.plugin.languages.details.svg" alt="algorithm"><br>
 <br>
-<a href="https://discord.com/users/836443801781927987">discord pf</a>
+<a href="https://discord.com/users/836443801781927987">discord</a>
 </p>
   <!--
 **typingforfun/typingforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
