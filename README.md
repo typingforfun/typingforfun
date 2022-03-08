@@ -1,5 +1,5 @@
 <p align="center">
-  <b>I stole my pfp from /i/, fuck you</b>
+  <b>I stole my pfp from /i/, fuck you</b><br>
 <img style="margin: auto" src="/metrics.plugin.languages.details.svg" alt="algorithm"><br>
 <br>
 <a href="https://discord.com/users/836443801781927987">discord pf</a>
