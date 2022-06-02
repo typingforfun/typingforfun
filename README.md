@@ -1,10 +1,6 @@
 <p align="center">
-  <a>I'm a wannabe developer that makes strange things in C(private stuff >:) and C++</a><br>
-  <a>If by the off chance you follow me, thank you for doing that ❤️</a><br><br>
-    <a>Here's a graph of my current metric stuff</a><br>
-<img align="center" src="/metrics.plugin.languages.indepth.svg" alt="Metrics" width="400"><br>
-<br>
-<a href="https://discord.com/users/836443801781927987">discord</a>
+  <a><b>I do the code in C/C++</b></a><br><br>
+<a href="https://discord.com/users/836443801781927987">Discord</a>
 </p>
   <!--
 **typingforfun/typingforfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
